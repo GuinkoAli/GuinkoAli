@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
-<h3 align="center">A passionate [Your Specialization, e.g., Backend Developer | Full-Stack Engineer] from [Your Location]</h3>
+<h1 align="center">Hi, I'm Guinko Ozeifa Ali👋</h1>
+<h3 align="center">A passionate Creative Tech-entrepreneur | Software Engineer from Accra, Ghana</h3>
 <br>
 
 <p align="center">
-  <a href="[Your LinkedIn URL]">
+  <a href="https://www.linkedin.com/in/guinko-ozeifa-ali-9a06802a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:[Your Email Address]">
+  <a href="guinkohousaifa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="[Your Twitter or other social media URL]">
