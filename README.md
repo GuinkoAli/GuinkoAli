@@ -50,19 +50,6 @@
 
 ---
 
-### 🌟 **Featured Projects**
-
-Here are a few projects I've built that I'm particularly proud of:
-
-1.  **[Project Name One](https://github.com/your-username/project-one)** | ![Tech](https://img.shields.io/badge/Python-Flask-green) ![Tech](https://img.shields.io/badge/MySQL-Database-blue)
-    > A brief, compelling description of what the project does, the problem it solves, and what you learned. *"A RESTful API for a book review system, implementing user authentication and CRUD operations."*
-
-2.  **[Project Name Two](https://github.com/your-username/project-two)** | ![Tech](https://img.shields.io/badge/React-Frontend-61DAFB) ![Tech](https://img.shields.io/badge/C-Backend-00599C)
-    > Another great project description. Highlight the impact or a cool technical challenge. *"A simple shell written in C, exploring low-level process control and system calls."*
-
-*(**Pro Tip:** Pin your best 6 repositories on your GitHub profile! They will appear right above your README.)*
-
----
 
 ### 📫 **Let's Connect!**
 
